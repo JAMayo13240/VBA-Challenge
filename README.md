@@ -6,8 +6,10 @@ Utilizes Microsoft Excel VBA coding
 Below are code used that was researched to meet the goals of the challenge:
 
 From https://www.excelsirji.com/vba-code-to-change-cell-color/,
+
 'Change cell color to green
     Sheet1.Range("C4").Interior.Color = RGB(0, 255, 0)
+    '
     '
     'Change cell color to red
     Sheet1.Range("C5").Interior.Color = RGB(255, 0, 0)
